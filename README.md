@@ -11,6 +11,8 @@
 
 <div style="display: inline-block">
  <img align="center" alt="Devlive-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="Devlive-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+   <img align="center" alt="Devlive-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"/>
 
 </div>
 
